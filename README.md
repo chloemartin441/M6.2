@@ -1,24 +1,15 @@
-# Web Dev Starter Code
+# M6.2
 
 ## Overview
 
-TODO: Write a project description
+Students are tasked with creating a letter templete with a similar outline to what was given as an example. This includes have two cols for text, top and bottom image for background. Also an alert function that displays text. 
+
+## Running
+Please feel free to fork over my github and select live preview to view the page. It may be easier to fully view the page by copying the URL from the live preview and pasting it into your browser. 
 
 ## Sources and Credits
-
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Text for Page: https://www.lipsum.com/
+- CSS background: https://www.w3schools.com/cssref/pr_background-image.php 
+- HTML background: https://www.freecodecamp.org/news/css-background-image-with-html-example-code/
+- Alert button : https://www.w3schools.com/howto/howto_css_alert_buttons.asp
+- readings and images from this weeks module 
